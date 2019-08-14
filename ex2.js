@@ -29,3 +29,13 @@ else {
     console.log("ticket costs 12.00 € ");
     
 }
+
+let timeOfDay = 8.00 ;
+if (timeOfDay<13.00){
+    console.log("good morning");
+    
+}
+else {
+    console.log("good evning");
+    
+}
