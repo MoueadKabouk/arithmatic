@@ -11,4 +11,11 @@ if (person > 18){
     
 }
 
-
+let speedCheck = 200 ;
+if (speedCheck > 130){
+    console.log(`you are too fast, slow down`);
+    
+}else if (speedCheck<=130){
+    console.log(`you are driving below the speed limit`);
+    
+}
