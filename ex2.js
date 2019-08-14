@@ -39,3 +39,13 @@ else {
     console.log("good evning");
     
 }
+
+let personAge = 22 ;
+if (personAge>21){
+    console.log("here is some wine");
+    
+}
+else {
+    console.log("here is some juice");
+    
+}
