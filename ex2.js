@@ -19,3 +19,13 @@ if (speedCheck > 130){
     console.log(`you are driving below the speed limit`);
     
 }
+
+let isStudent = "student"
+if (isStudent==="student"){
+    console.log("ticket costs 5.00€");
+    
+}
+else {
+    console.log("ticket costs 12.00 € ");
+    
+}
