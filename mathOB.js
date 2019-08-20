@@ -7,7 +7,7 @@ console.log(findHighestNumber);
 
 const roundingUpA = Math.ceil(3321.32321);
 const roundingUpB = Math.ceil(326.76);
-const roundingUpC =Math.ceil(76788.7)
+const roundingUpC = Math.ceil(76788.7)
 console.log(roundingUpA);
 console.log(roundingUpB);
 console.log(roundingUpC);
@@ -20,6 +20,6 @@ console.log(roundingDownB);
 console.log(roundingDownC);
 
 const min = 1 ;
-const max = 6;
-const random = Math.floor(Math.random()* (max - min +1))+ min;
+const max = 6 ;
+const random = Math.floor(Math.random() * (max - min +1))+ min;
 console.log(random);
